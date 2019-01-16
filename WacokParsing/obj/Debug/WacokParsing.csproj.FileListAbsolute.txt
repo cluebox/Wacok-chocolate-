@@ -1,0 +1,16 @@
+c:\users\clue box\documents\visual studio 2013\Projects\WacokParsing\WacokParsing\bin\Debug\WacokParsing.exe.config
+c:\users\clue box\documents\visual studio 2013\Projects\WacokParsing\WacokParsing\bin\Debug\WacokParsing.exe
+c:\users\clue box\documents\visual studio 2013\Projects\WacokParsing\WacokParsing\bin\Debug\WacokParsing.pdb
+c:\users\clue box\documents\visual studio 2013\Projects\WacokParsing\WacokParsing\bin\Debug\SpssLib.dll
+c:\users\clue box\documents\visual studio 2013\Projects\WacokParsing\WacokParsing\bin\Debug\SpssLib.xml
+c:\users\clue box\documents\visual studio 2013\Projects\WacokParsing\WacokParsing\obj\Debug\WacokParsing.csprojResolveAssemblyReference.cache
+c:\users\clue box\documents\visual studio 2013\Projects\WacokParsing\WacokParsing\obj\Debug\WacokParsing.exe
+c:\users\clue box\documents\visual studio 2013\Projects\WacokParsing\WacokParsing\obj\Debug\WacokParsing.pdb
+D:\Dotnet project\WacokParsing\WacokParsing\bin\Debug\WacokParsing.exe.config
+D:\Dotnet project\WacokParsing\WacokParsing\obj\Debug\WacokParsing.exe
+D:\Dotnet project\WacokParsing\WacokParsing\obj\Debug\WacokParsing.pdb
+D:\Dotnet project\WacokParsing\WacokParsing\bin\Debug\WacokParsing.exe
+D:\Dotnet project\WacokParsing\WacokParsing\bin\Debug\WacokParsing.pdb
+D:\Dotnet project\WacokParsing\WacokParsing\bin\Debug\SpssLib.dll
+D:\Dotnet project\WacokParsing\WacokParsing\bin\Debug\SpssLib.xml
+D:\Dotnet project\WacokParsing\WacokParsing\obj\Debug\WacokParsing.csprojResolveAssemblyReference.cache
